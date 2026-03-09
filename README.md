@@ -3,15 +3,13 @@ Course project for the course CAP6614 - Current Topics in Machine Learning at th
 
 Team members include: Michael Miletic (MMiletic03), Jordan Haag (twinjordan02), and Megan Diehl.
 
-To begin using this project, ensure that Meta's Llama-2-7b_hf model (~13GB) and the wikitext-2-raw-v1 dataset (<1 GB) are both donwloaded on your machine.
+To begin using this project, ensure that Meta's Llama-2-7b_hf model (~13GB).
 
 LlaMa-2-7b_hf: https://huggingface.co/meta-llama/Llama-2-7b-hf 
 
-*Note: You must granted access to this model before downloading it. Once granted access, download the model and generate and authentication token to use to login to the Hugging Face CLI.
+*Note: You must granted access to this model before downloading it. Once granted access, download the model and generate and authentication token to use to login to the Hugging Face CLI.*
 
-wikitext-2-raw-v1: https://huggingface.co/datasets/Salesforce/wikitext
-
-Once these have been installed in your working directory, create a virtual environment containing the packages with the required versions listed in requirements.txt
+Once installed in your working directory, create a virtual environment containing the packages with the required versions listed in requirements.txt
 
 Clone the folder: Pruning-and-Perplexity
 
