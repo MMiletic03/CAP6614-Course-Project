@@ -3,7 +3,7 @@ Course project for the course CAP6614 - Current Topics in Machine Learning at th
 
 Team members include: Michael Miletic (MMiletic03), Jordan Haag (twinjordan02), and Megan Diehl (md1789).
 
-To begin using this project, ensure that Meta's Llama-2-7b_hf model (~13GB).
+To begin using this project, ensure that Meta's Llama-2-7b_hf model (~13GB) is downloaded locally on your machine.
 
 LlaMa-2-7b_hf: https://huggingface.co/meta-llama/Llama-2-7b-hf 
 
